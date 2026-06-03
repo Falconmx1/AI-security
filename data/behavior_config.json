@@ -1,0 +1,22 @@
+{
+  "crypto_mining": [
+    "minerd", "xmrig", "cgminer", "bfgminer", "cpuminer", "ethminer",
+    "minergate", "nicehash", "claymore", "phoenixminer", "lolminer",
+    "t-rex", "nbminer", "gminer", "teamredminer", "srbmul", "cupminer",
+    "kawpowminer", "wildrig", "z-enemy"
+  ],
+  "ransomware_commands": [
+    "taskkill", "vssadmin", "bcdedit", "wmic", "cipher", "wevtutil",
+    "schtasks", "reg.exe", "net.exe", "attrib", "icacls", "takeown"
+  ],
+  "ransomware_extensions": [
+    ".encrypted", ".locked", ".crypt", ".ransom", ".wannacry", ".cerber",
+    ".locky", ".crypto", ".zepto", ".odcodc", ".wallet", ".aesir",
+    ".dharma", ".arena", ".bip", ".lol", ".mogodb", ".ontario",
+    ".ezz", ".micro", ".whiteshark", ".lockbit", ".conti", ".revil"
+  ],
+  "critical_folders": [
+    "~/Documents", "~/Desktop", "~/Pictures", "~/Downloads",
+    "~/Videos", "~/Music", "C:\\Users", "/home"
+  ]
+}
